@@ -1,4 +1,5 @@
-name = "fixtweet"
+#name = "fixtweet"
+name = "fxtwitter"
 account_id = "aad64d6c30ef7796ef8bbacabeceea50"
 main = "./dist/worker.js"
 compatibility_date = "2024-11-14"
